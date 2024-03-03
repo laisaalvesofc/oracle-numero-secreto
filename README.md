@@ -2,7 +2,7 @@
 Neste jogo, um número secreto entre 1 e 100 é gerado e seu desafio é descobrir qual é este número. Mas calma! A cada chute o jogo te fornece dicas, revelando se o número secreto é maior ou menor que o chute. Descubra o número secreto com o mínimo de chutes possível! Desafie seus amigos a superá-lo!
 
 <h2> Imagem Final do Projeto </h2>
-<img src="https://github.com/laisaalvesofc/jogo-do-numero-secreto/blob/main/js-curso-2-aula_2/img/imagemjogo.PNG?raw=true)" alt="Imagem da tela do jogo com uma personagem criada com inteligência artificial usando uma bandeira do brazil no uniforme" class="container__imagem-pessoa" />
+<img src="https://github.com/laisaalvesofc/oracle-numero-secreto/blob/main/img/imagemjogo.PNG" alt="Imagem da tela do jogo com uma personagem criada com inteligência artificial usando uma bandeira do brazil no uniforme" class="container__imagem-pessoa" />
 
 <h2> ⚙ Tecnologias Utilizadas </h2>
 <p> HTML5 e CSS3 para a estrutura e aparência do jogo.
