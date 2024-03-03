@@ -22,8 +22,9 @@ O que proporciona ao usuário uma experiência auditiva e imersiva que faz jus a
 
 <h2>🕹️ Como Jogar ?</h2>
 <p> Clone este repositório para sua máquina local.
-Abra o arquivo index.html em seu navegador web.
-<p> Divirta-se jogando! </p>
+Abra o arquivo index.html em seu navegador web.<p>
+Ou acesse https://oracle-numero-secreto.vercel.app/
+<p> Divirta-se jogando! <p>
 
 <h2>🤝🏻Contribuições são bem-vindas! </h2> 
 Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
